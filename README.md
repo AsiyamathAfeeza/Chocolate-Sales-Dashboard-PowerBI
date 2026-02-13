@@ -14,7 +14,7 @@ This project analyzes chocolate factory sales data to understand revenue trends,
 - Improved decision-making through interactive dashboard
 
 ## 📷 Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard]("C:\Users\Appi\Downloads\dashbroad.png")
 
 ## 🚀 Business Impact
 The dashboard helps management track sales performance and identify growth opportunities.
